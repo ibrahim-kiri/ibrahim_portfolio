@@ -336,7 +336,9 @@ input[type="text"]::placeholder, ::placeholder {
     color: #9db79e;
 }
 
-.success-submit-message.active, .validation-error.active, .fail-submit-messsage.active {
+.success-submit-message.active, 
+.validation-error.active, 
+.fail-submit-messsage.active {
     display: block;
 }
 
@@ -1194,26 +1196,7 @@ input[type="text"]::placeholder, ::placeholder {
     width: 100%;
     margin-top: 48px;
 }
-.success-submit-message {
-    background: #e9f3e9;
-    font-size: 14px;
-    color:	#4caf50;
-    border-radius: 4px;
-    padding: 6px 20px;
-    margin-bottom: 16px;
-    display: none;
-}
-[data-theme="dark"] .success-submit-message {
-    background: #314548;
-    font-size: 14px;
-    color: #9db79e;
-}
-.success-submit-message.active {
-    display: block;
-}
-.fail-submit-message {
-    padding: 6px 20px;
-}
+
 .contact-section .contact-wrapper .contact-info .contact-info-item {
     margin-bottom: 48px;
     display: flex;
