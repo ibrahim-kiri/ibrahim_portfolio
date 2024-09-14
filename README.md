@@ -33,7 +33,7 @@ This section showcases my projects
 ## Work Experience
 This section is for my work experince
 
-### Company Name (Year - Year)
+### Stitch and Sew Toyota (2020 - 2024)
 - Software Engineer | IT Administrator
 - Designed and implemented a comprehensive Online Parts Ordering System using Django framework.
 - Developed a responsive website for an automotive service center
